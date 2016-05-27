@@ -2,9 +2,8 @@ nav {
 	list-style-type: none;
 	color: grey;
 	font-size: 18px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: blue;
+	text-align: center;
+	background-color: light blue;
 }
 
 nav ul li a:hover {
