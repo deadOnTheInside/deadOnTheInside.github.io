@@ -2,8 +2,9 @@ nav {
 	list-style-type: none;
 	color: grey;
 	font-size: 18px;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: blue;
 }
 
 nav ul li a:hover {
