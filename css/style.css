@@ -2,6 +2,11 @@ body {
 	background-color: grey;
 }
 
+em {
+	color: silver;
+	font-family: Oswald;
+}
+
 nav ul li a {
 	list-style-type: none;
 	color: white;
