@@ -1,6 +1,10 @@
+body {
+	background-color: grey;
+}
+
 nav ul li a {
 	list-style-type: none;
-	color: grey;
+	color: white;
 	font-size: 16px;
 	text-align: center;
 }
