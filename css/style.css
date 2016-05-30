@@ -7,8 +7,12 @@ em {
 	font-family: Oswald;
 }
 
-nav ul li a {
+nav {
 	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li a {
 	color: white;
 	font-size: 16px;
 	text-align: center;
@@ -16,4 +20,16 @@ nav ul li a {
 
 nav ul li a:hover {
 	background-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	margin: 10px;
+}
+
+h3 {
+	margin: 24px;
 }
