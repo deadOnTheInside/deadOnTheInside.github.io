@@ -30,9 +30,14 @@ h1 {
 }
 
 h2 {
-	margin: 18px;
+	margin-left: 18px;
 }
 
 h3 {
-	margin: 32px;
+	margin-left: 40px;
+}
+
+h5 {
+	color: #708090;
+	font-size: 10 px;
 }
