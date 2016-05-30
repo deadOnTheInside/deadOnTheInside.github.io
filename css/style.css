@@ -15,14 +15,14 @@ nav a {
 	color: black;
 	font-size: 16px;
 	text-align: center;
-	margin-right: 8px;
-	margin-left: 8px;
+	padding-right: 16px;
+	padding-left: 16px;
 	background-color: white;
 }
 
 nav a:hover {
 	background-color: black;
-	color: white;
+	color: wshite;
 }
 
 h1 {
